@@ -15,6 +15,6 @@ Create a spreadsheet "Pixel art"
 
 
 
-Next version : 0.02
-#Add more color and character
+#Next version : 0.02
+Add more color and character
   
